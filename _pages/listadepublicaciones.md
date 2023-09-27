@@ -26,3 +26,7 @@ Publications
   
   1. C. Molinari, J. Peypouquet, and F. Roldan: Alternating	forward-backward splitting for linearly constrained optimization 
 	problems,  <i>Optim. Lett.<i>, Vol.14 , pp. 1071-1088, 2020 [preprint](https://drive.google.com/file/d/nxe1bY_NwcLaizNiqecTk0FfET4OgT9h/iew?pli=1)
+
+  Thesis
+  ======
+  
