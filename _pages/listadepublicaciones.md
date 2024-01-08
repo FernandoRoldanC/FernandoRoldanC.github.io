@@ -9,7 +9,9 @@ Pre-prints
 ------
 1.- F. Roldán. Forward-Reflected-Backward and Shadow-Douglas--Rachford with Partial Inverse for Solving Monotone Inclusions. [preprint](https://arxiv.org/abs/2305.17500)
 
-2.- E. Chouzenoux, J.-C. Pesquet, F. Roldán. Solution of Mismatched Monotone+Lipschitz Inclusion Problems. In preparation.
+2.- E. Chouzenoux, J.-C. Pesquet, F. Roldán. Solution of Mismatched Monotone+Lipschitz Inclusion Problems. [preprint](https://arxiv.org/abs/2310.06402)
+
+3.- F. Roldán. Forward Primal-Dual Half-Forward Algorithm for Splitting Four Operators. [preprint](https://arxiv.org/abs/2310.17265)
 
 
 Journal Papers
