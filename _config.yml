@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Fernando Roldán"
-  avatar           : "fotoFR.png"
+  avatar           : "fotoFR.jpg"
   bio              : "Universidad de Concepción"
   location         : "Concepción, Chile"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aJaIF3oAAAAJ&hl=en"
-  email            :  fernandoroldan@udec.cl
+  email            : "fernandoroldan@udec.cl"
   researchgate     :  
   uri              :
   bitbucket        :
