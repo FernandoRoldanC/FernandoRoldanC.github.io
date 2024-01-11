@@ -27,7 +27,7 @@ Journal Papers
 2.- L. M. Briceño-Arias and F. Roldán: Split-Douglas--Rachford algorithm for composite monotone inclusions and Split-ADMM, <i>SIAM J. Optim.<i>, Vol.31, pp. 2987-3013, 2021 [preprint](https://arxiv.org/pdf/2101.11683)
 
 1.- C. Molinari, J. Peypouquet, and F. Roldan: Alternating	forward-backward splitting for linearly constrained optimization 
-problems,  <i>Optim. Lett.<i>, Vol.14 , pp. 1071-1088, 2020 [preprint](https://drive.google.com/file/d/nxe1bY_NwcLaizNiqecTk0FfET4OgT9h/iew?pli=1)
+problems,  <i>Optim. Lett.<i>, Vol.14 , pp. 1071-1088, 2020 [preprint](https://drive.google.com/file/d/1nxe1bY_NwcLaizNiqecTk0FfET4OgT9h/view)
 
 
 Thesis
