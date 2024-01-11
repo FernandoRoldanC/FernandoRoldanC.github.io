@@ -33,6 +33,7 @@ problems,  <i>Optim. Lett.<i>, Vol.14 , pp. 1071-1088, 2020 [preprint](https://d
 Thesis
 ------
 -Ph. D. in Applied Mathematics: Composite Monotone Inclusions in Vector Subspaces: Theory, Splitting, and Apliccations.
+[Thesis](https://fernandoroldanc.github.io/files/Tesis.pdf)
 
 -Civil Engineering Mathematics: Compresión y corrección de imágenes mediante algoritmos de ondículas y optimización [Thesis in spanish](https://repositorio.usm.cl/bitstream/handle/11673/22699/3560900231833UTFSM.pdf?sequence=1&isAllowed=y)
 
