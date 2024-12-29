@@ -5,20 +5,13 @@ permalink: /listadepublicaciones/
 author_profile: true
 ---
 
----
-layout: archive
-title: "List of Publications"
-permalink: /listadepublicaciones/
-author_profile: true
----
-
 Pre-prints
 ------
 1.- F. Roldán, C. Vega. Relaxed and Inertial Nonlinear Forward-Backward with Momentum. [preprint](https://arxiv.org/abs/2412.02045v1) [MATLAB code](https://github.com/cristianvega1995/Relaxed-and-Inertial-Nonlinear-Forward-Backward-with-Momentum)
 
 Journal Papers
 ------
-9.- F. Roldán. Forward Primal-Dual Half-Forward Algorithm for Splitting Four Operators. <i>J. Optim. Theory Appl.<i>, 2025. [https://doi.org/10.1007/s11228-022-00649-w](https://doi.org/10.1007/s11228-022-00649-w). [preprint](https://arxiv.org/abs/2310.17265) [MATLAB code](https://github.com/FernandoRoldanC/FernandoRoldanC.github.io/raw/master/MATLAB_CODE_S4OP.zip)
+9.- F. Roldán. Forward Primal-Dual Half-Forward Algorithm for Splitting Four Operators. <i>J. Optim. Theory Appl.<i>, 2025. [https://doi.org/10.1007/s11228-022-00649-w](https://doi.org/10.1007/s11228-022-00649-w). [preprint](https://arxiv.org/abs/2310.17265) [MATLAB code](https://fernandoroldanc.github.io/files/MATLAB_CODE_S4OP.zip)
 
 8.- F. Roldán. Forward-Reflected-Backward and Shadow-Douglas--Rachford with Partial Inverse for Solving Monotone Inclusions. <i>Math Meth Oper Res.<i>,  vol. 100, pp. 723–752, 2024. [https://doi.org/10.1007/s11228-022-00649-w](https://doi.org/10.1007/s11228-022-00649-w). [preprint](https://arxiv.org/abs/2305.17500)
 
@@ -43,4 +36,4 @@ Thesis
 -Ph. D. in Applied Mathematics: Composite Monotone Inclusions in Vector Subspaces: Theory, Splitting, and Apliccations.
 [Thesis](https://fernandoroldanc.github.io/files/Tesis.pdf)
 
--Civil Engineering Mathematics: Compresión y corrección de imágenes mediante algoritmos de ondículas y optimización [Thesis in spanish](https://repositorio.usm.cl/bitstream/handle/11673/22699/3560900231833UTFSM.pdf?sequence=1&isAllowed=y)
+-Civil Engineering Mathematics: Compresión y corrección de imágenes mediante algoritmos de ondículas y optimización [Thesis in spanish](https://fernandoroldanc.github.io/files/Memoria.pdf)
