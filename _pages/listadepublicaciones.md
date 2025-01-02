@@ -11,9 +11,9 @@ Pre-prints
 
 Journal Papers
 ------
-9.- F. Roldán. Forward Primal-Dual Half-Forward Algorithm for Splitting Four Operators. <i>J. Optim. Theory Appl.<i>, 2025. [https://doi.org/10.1007/s11228-022-00649-w](https://doi.org/10.1007/s11228-022-00649-w). [preprint](https://arxiv.org/abs/2310.17265) [MATLAB code](https://fernandoroldanc.github.io/files/MATLAB_CODE_S4OP.zip)
+9.- F. Roldán. Forward Primal-Dual Half-Forward Algorithm for Splitting Four Operators. <i>J. Optim. Theory Appl.<i>, 2025. [https://doi.org/10.1007/s10957-024-02560-w](https://doi.org/10.1007/s10957-024-02560-w). [preprint](https://arxiv.org/abs/2310.17265) [MATLAB code](https://fernandoroldanc.github.io/files/MATLAB_CODE_S4OP.zip)
 
-8.- F. Roldán. Forward-Reflected-Backward and Shadow-Douglas--Rachford with Partial Inverse for Solving Monotone Inclusions. <i>Math Meth Oper Res.<i>,  vol. 100, pp. 723–752, 2024. [https://doi.org/10.1007/s11228-022-00649-w](https://doi.org/10.1007/s11228-022-00649-w). [preprint](https://arxiv.org/abs/2305.17500)
+8.- F. Roldán. Forward-Reflected-Backward and Shadow-Douglas--Rachford with Partial Inverse for Solving Monotone Inclusions. <i>Math Meth Oper Res.<i>,  vol. 100, pp. 723–752, 2024. [https://doi.org/10.1007/s00186-024-00878-9](https://doi.org/10.1007/s00186-024-00878-9). [preprint](https://arxiv.org/abs/2305.17500)
 
 7.- E. Chouzenoux, J.-C. Pesquet, F. Roldán. Solution of Mismatched Monotone+Lipschitz Inclusion Problems. <i>SIAM J. Optim.<i>, Vol.34, pp. 3564-3591, 2024. [https://doi.org/10.1137/23M1609166](https://doi.org/10.1137/23M1609166). [preprint](https://arxiv.org/abs/2310.06402) [MATLAB code](https://drive.google.com/file/d/1mBjApCP8UEZBam3z_0Aleun2_yCLycD4/view?usp=drive_link)
 
